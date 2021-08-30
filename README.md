@@ -11,5 +11,4 @@ TODO:
 Ref:  
 https://github.com/songys/Chatbot_data  
 https://wikidocs.net/book/2155  
-https://blog.naver.com/bdg9412/222313395230  
 
